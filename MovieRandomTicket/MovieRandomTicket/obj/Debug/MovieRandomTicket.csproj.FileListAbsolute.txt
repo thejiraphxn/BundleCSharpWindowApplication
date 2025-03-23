@@ -1,0 +1,12 @@
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\bin\Debug\MovieRandomTicket.exe.config
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\bin\Debug\MovieRandomTicket.exe
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\bin\Debug\MovieRandomTicket.pdb
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.csproj.AssemblyReference.cache
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.Form1.resources
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.Properties.Resources.resources
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.csproj.GenerateResource.cache
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.csproj.CoreCompileInputs.cache
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.exe
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.pdb
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.Form2.resources
+E:\ProjectC#\MovieRandomTicket\MovieRandomTicket\obj\Debug\MovieRandomTicket.Form3.resources

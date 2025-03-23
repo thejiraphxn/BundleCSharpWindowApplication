@@ -1,0 +1,10 @@
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\bin\Debug\WindowsFormsApp_2_3_2025_2.exe.config
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\bin\Debug\WindowsFormsApp_2_3_2025_2.exe
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\bin\Debug\WindowsFormsApp_2_3_2025_2.pdb
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.csproj.AssemblyReference.cache
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.Form1.resources
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.Properties.Resources.resources
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.csproj.GenerateResource.cache
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.csproj.CoreCompileInputs.cache
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.exe
+D:\6505911\WindowsFormsApp_2_3_2025_2\WindowsFormsApp_2_3_2025_2\obj\Debug\WindowsFormsApp_2_3_2025_2.pdb
